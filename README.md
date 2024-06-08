@@ -28,6 +28,9 @@ Puedes probar las rutas siguientes en la documentación interactiva proporcionad
 
 - [http://localhost:8002/docs](http://localhost:8002/docs)
 
+![TSwagger Fast-API](Swagger.jpeg)
+
+
 ## Estructura del Proyecto
 
 - src/
